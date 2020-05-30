@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-cd $HOME/DarK
+cd $HOME/TeKToK
 rm -rf $HOME/.telegram-cli
 ins() {
 sudo chmod +x tg
-chmod +x DarK
+chmod +x TeKToK
 chmod +x tk
 ./tk
 }
